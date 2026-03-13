@@ -44,28 +44,34 @@
 
 ## 專案目錄結構 (Project Structure)
 
+```text
 VoteESUN
-│
 ├─ backend
-│   ├─ controller
-│   ├─ service
-│   ├─ repository
-│   ├─ dto
-│
+│  ├─ controller
+│  ├─ service
+│  ├─ repository
+│  └─ dto
 ├─ frontend
-│   ├─ views
-│   ├─ api
-│   └─ router
-│
+│  ├─ views
+│  ├─ api
+│  └─ router
 ├─ DB
-│   ├─ procedures.sql
-│   ├─ ddl.sql
-│   └─ dml.sql
-│
+│  ├─ procedures.sql
+│  ├─ ddl.sql
+│  └─ dml.sql
 └─ README.md
+```
+
 
 ## 系統畫面
 
-![投票頁面](images\1.png)
-![管理頁面](images\2.png)
-![結果頁面](images\3.png)
+## 系統畫面
+
+### 投票頁面
+![投票頁面](images/1.png)
+
+### 管理頁面
+![管理頁面](images/2.png)
+
+### 結果頁面
+![結果頁面](images/3.png)

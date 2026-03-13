@@ -42,7 +42,7 @@
         ▼
     MySQL Database
 
-## 專案目錄結構 (Project Structure)
+## 重點專案目錄 (Project Structure)
 
 ```text
 VoteESUN
